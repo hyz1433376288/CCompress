@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1608699674 source:d:\qt\myqt\ccompress_copycore1\yz\main.cpp
+	<iostream>
+	"Encode.h"
+	"Decode.h"
+
+1608618644 d:\qt\myqt\ccompress_copycore1\yz\include\encode.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"COMMON.h"
+
+1608698728 d:\qt\myqt\ccompress_copycore1\yz\include\common.h
+
+1608643422 d:\qt\myqt\ccompress_copycore1\yz\include\decode.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"COMMON.h"
+
+1608689396 source:d:\qt\myqt\ccompress_copycore1\yz\src\decode.cpp
+	"Decode.h"
+	<string.h>
+	<iostream>
+
+1608688847 source:d:\qt\myqt\ccompress_copycore1\yz\src\encode.cpp
+	"Encode.h"
+	"COMMON.h"
+	<strings.h>
+	<iostream>
+
